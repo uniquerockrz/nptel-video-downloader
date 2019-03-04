@@ -1,0 +1,14 @@
+{
+  "name": "nptel-video-downloader",
+  "version": "0.0.1",
+  "description": "A downloader to get URLs of NPTEL videos",
+  "main": "app.ts",
+  "author": "Saurav Modak me at sauravmodak dot com",
+  "license": "GPL",
+  "private": false,
+  "dependencies": {
+    "@types/cheerio": "^0.22.10",
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2"
+  }
+}
